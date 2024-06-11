@@ -5,7 +5,7 @@ This repository hosts the demos and sample code used during the seminar.
 ## Event Details
 
 The seminar _"Demystifying the Hidden Powers of Expression Trees in C#"_ is designed to dive deep into the powerful features of expression trees in C#.
-Within about 1h we covered topics like:
+Within about 1 hour we covered topics like:
 
 - Overview and use cases
 - Creating expression trees
